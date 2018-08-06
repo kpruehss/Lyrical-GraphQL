@@ -1,2 +1,4 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+
+Practice project to build a GraphQL based app to crowd source lyrics for
+songs. Songs/Lyrics are stored in mlab hosted MongoDB
